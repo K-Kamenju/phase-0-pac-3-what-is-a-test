@@ -29,9 +29,9 @@ describe('what-is-a-test', () => {
 // The code below ensures that students who are using CodeGrade will get credit 
 // for the code-along in Canvas; you can disregard it.
 
-describe('', () => {
-  describe('', () => {
-    it('', () => {
+describe('What-is-a-describe-test', () => {
+  describe('name', () => {
+    it('returns Kamenju', () => {
       return true;
     })
   })
